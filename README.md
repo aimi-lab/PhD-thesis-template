@@ -1,14 +1,8 @@
-# Template for the EPFL PhD thesis
+# Template for the University of Bern PhD thesis
 
-Welcome to the **unofficial** template for the EPFL PhD thesis. Before starting to write your thesis, have a look at this page: [https://www.epfl.ch/education/phd/regulations/internal-regulations/edoc-faq-fin-de-these/](https://www.epfl.ch/education/phd/regulations/internal-regulations/edoc-faq-fin-de-these/). It will give you all mandatory information concerning your thesis. It is also not required for you to use this template. It's only here to help you and remove the struggle to create your own template. 
+This is an **unofficial** template for the for the University of Bern PhD thesis. It uses the EPFL PhD thesis template for the main body of the thesis, and follows the GCB of university of Bern guidelines for the first and last pages (have a look [here](https://www.gcb.unibe.ch/phd_program/phd_degree/index_eng.html) for the GCB PhD thesis guidelines)
 
-If you are using this template and improved it, if you have suggestions to improve it or if you have questions, feel free to contact me: [gael.lederrey@epfl.ch](mailto:gael.lederrey@epfl.ch). You can also contact [PolyDoc](mailto:polydoc@epfl.ch), the PhD students association from EPFL, or visit their [website](http://polydoc.epfl.ch) if you have more general questions.
-
-If you are looking for other templates in Word or from different universities, feel free to visit this page: [https://www.epfl.ch/education/phd/regulations/internal-regulations/edoc-faq-fin-de-these/](https://www.epfl.ch/education/phd/regulations/internal-regulations/edoc-faq-fin-de-these/). At the end of the page, you will find a generic Word template.
-
-> **WARNING**: These templates are not maintained. However, if you modify it, feel free to send it to PolyDoc and we will replace them.
-
-And if you created another template and want to share it with other PhD students from EPFL, feel free to contact PolyDoc and we'll see what we can do. 
+If you are using this template and improved it, if you have suggestions to improve it or if you have questions, feel free to contact: [gael.lederrey@epfl.ch](mailto:gael.lederrey@epfl.ch). You can also contact [PolyDoc](mailto:polydoc@epfl.ch), the PhD students association from EPFL, or visit their [website](http://polydoc.epfl.ch) if you have more general questions.
 
 ## FAQ 
 
