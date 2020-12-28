@@ -2,8 +2,6 @@
 
 This is an **unofficial** template for the for the GCB of the University of Bern PhD thesis. It uses the [EPFL PhD thesis template](https://github.com/glederrey/EPFL_thesis_template) for the main body of the thesis, and follows the GCB of university of Bern guidelines for the first and last pages (have a look [here](https://www.gcb.unibe.ch/phd_program/phd_degree/index_eng.html) for the GCB PhD thesis guidelines). [This](https://github.com/stergioc/unibe-thesis-latex-template) GCB template was also used.
 
-If you are using this template and improved it, if you have suggestions to improve it or if you have questions, feel free to contact: [gael.lederrey@epfl.ch](mailto:gael.lederrey@epfl.ch). You can also contact [PolyDoc](mailto:polydoc@epfl.ch), the PhD students association from EPFL, or visit their [website](http://polydoc.epfl.ch) if you have more general questions.
-
 ## FAQ 
 
 **The compilation fails: it says "LaTeX Error: Unknown option `explicit` for package `titlesec`**
